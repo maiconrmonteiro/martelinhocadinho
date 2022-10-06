@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body, html, main, section {
+    background-color: #040708;
+    color: aliceblue;
+}
+
+header {
+    background-color: #040708;
+}
+
+.logo {
+    text-align: center;
+
+}
+
+.logo > img {
+    width: 60%;
+    padding-top: 20px;
+}
+
+.logo > p {
+    color: #F2A81D;
+    font-family: 'Bebas Neue', cursive;
+    padding-bottom: 20px;
+}
+
+.txt-localizacao {
+    padding-bottom: 10px;
+
+}
+
+.construcao {
+    text-align: center;
+    color: aliceblue;
+}
+
+.mapa {
+    padding-top: 30px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 20px;
+    color: aliceblue;
+    background-color: #040708;
+}
+
+main {
+    width: 80vw;
+    background-color: black;
+    margin: auto;
+    margin-top: 10px;
+}
+
+
+header > h1 {
+    padding: 10px;
+    text-align: center;
+}
+
+.zap {
+    text-align: center;
+}
+
+.zap > a > img {
+    padding: 20px;
+    width: 25%;
+}
+
+
